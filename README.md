@@ -46,3 +46,14 @@ Rainmeter skin - Manual keyboard visualizer for macro users
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - MacroMap is licensed under CC BY-SA 4.0 & MIT License
+
+---
+
+### Extra
+
+- It's possible to create custom themes 
+  - The easy way is to use the .psd files and modify them
+  - The hard way would be to create a new template with the following dimensions
+  - The hardest way would be to create your own template and even modify the meters to their respective positions
+
+<img src="https://i.imgur.com/OYv9Noi.png" width="1300" />
