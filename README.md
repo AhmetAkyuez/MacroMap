@@ -22,6 +22,10 @@ Rainmeter skin - Manual keyboard visualizer for macro users
 #### Change Theme in context menu
 <img src="https://i.imgur.com/TvXC2io.gif" width="1100" />
 
+#### Change Keyboard layout in context menu
+<img src="https://i.imgur.com/updw13b.gif" width="1100" />
+
+
 --- 
 
 ## Installation
