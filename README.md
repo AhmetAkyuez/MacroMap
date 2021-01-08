@@ -25,6 +25,9 @@ Rainmeter skin - Manual keyboard visualizer for macro users
 #### Change Keyboard layout in context menu
 <img src="https://i.imgur.com/updw13b.gif" width="1100" />
 
+#### Display images on every key per layer
+<img src="https://i.imgur.com/4OQ8VJY.gif" width="1100" />
+
 
 --- 
 
